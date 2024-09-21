@@ -1,7 +1,7 @@
 public class TipeDataReferenceInteger {
     
     public static void main(String[] args) {
-        Integer angka = new Integer(3);
+        Integer angka = 3;
         String angka2 = Integer.toString(angka);
         int angka3 = angka.intValue();
         
