@@ -9,6 +9,6 @@ public class Main {
         System.out.println(bil1.subtract(bil2)); //pengurangan
         System.out.println(bil1.multiply(bil2)); //perkalian
         System.out.println(bil1.divide(bil2)); //pembagian
-        System.out.println(bil1.mod(bil2));
+        System.out.println(bil1.mod(bil2)); //sisa bagi
     }
 } 
