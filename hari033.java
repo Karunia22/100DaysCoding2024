@@ -6,8 +6,8 @@ public class Main {
         int bilCasting = bil;
         
         //casting manual
-        float bil2 = 3.5f;
-        double bil2Casting = (double) bil2;
+        double bil2 = 3.5f;
+        float bil2Casting = (float) bil2;
             
         System.out.println(bilCasting);
         System.out.println(bil2Casting);
