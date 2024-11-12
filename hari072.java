@@ -10,9 +10,7 @@ public class MAin {
         
         int hasil = deretBilangan(awal, beda, deret);
         
-        for (int i = 0; i < deret; i++) {
-            System.out.println(hasil);
-        }
+         System.out.println(hasil);
     }
 
     public static int deretBilangan(int a, int b, int d) {
