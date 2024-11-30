@@ -47,7 +47,7 @@ public class soal3 {
         if (kondisi) {
             System.out.println("Pesawat terjatuh");
         } else {
-            System.out.print("Posisi ");
+            System.out.print("Posisi: ");
             for (int i : kordinat) {
                 System.out.print(i + " ");
             }
